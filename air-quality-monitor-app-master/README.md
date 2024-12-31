@@ -3,9 +3,9 @@
 ---
 
 <p align="center">
-   <img width="20%" height="20%" src="/assets/screenshots/iphone-xs-max-1.png">
-   <img width="20%" height="20%" src="/assets/screenshots/iphone-xs-max-2.png">
-   <img width="20%" height="20%" src="/assets/screenshots/iphone-xs-max-4.png">
+   <img width="20%" height="20%" src="assets/screenshots/iphone-xs-max-1.png">
+   <img width="20%" height="20%" src="assets/screenshots/iphone-xs-max-2.png">
+   <img width="20%" height="20%" src="assets/screenshots/iphone-xs-max-4.png">
 </p>
 
 ---
